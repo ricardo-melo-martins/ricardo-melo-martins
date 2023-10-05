@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Ricardo Martins
 
 <!--
 **ricardo-melo-martins/ricardo-melo-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
+const im = {
+  techProfile: [backend, frontend, mobile]
+}
+```
+
+Ferramentas e tecnologias
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>

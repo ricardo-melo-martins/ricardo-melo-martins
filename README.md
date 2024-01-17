@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ricardo Martins
+### Hi there 👋, I'm Ricardo Melo Martins
 
 A passionate backend, frontend and mobile developer from Brazil
 
@@ -30,13 +30,8 @@ const profile = {
 ```
 # 📊 GitHub Stats:
 <div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-melo-martins&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <a href="https://github.com/ricardo-melo-martins">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-melo-martins&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=10" />
+  </a>
 </div>
 
-<!--
-<div>
-<a href="https://github.com/ricardo-melo-martins">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-melo-martins&layout=compact&langs_count=10&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardo-melo-martins&show_icons=true&theme=dracula&count_private=true"/>
-</div>
--->

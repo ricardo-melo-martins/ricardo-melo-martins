@@ -28,9 +28,15 @@ const profile = {
   tech: [backend, frontend, mobile]
 }
 ```
+# 📊 GitHub Stats:
+<div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-melo-martins&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
+<!--
 <div>
 <a href="https://github.com/ricardo-melo-martins">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-melo-martins&layout=compact&langs_count=10&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardo-melo-martins&show_icons=true&theme=dracula&count_private=true"/>
 </div>
+-->

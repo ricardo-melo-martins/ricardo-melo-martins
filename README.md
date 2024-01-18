@@ -25,7 +25,9 @@ const profile = {
   tech: [backend, frontend, mobile]
 }
 ```
+
 ### 📊 GitHub Stats:
+
 <div>
   <a href="https://github.com/ricardo-melo-martins">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-melo-martins&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=10&locale=pt-br" />

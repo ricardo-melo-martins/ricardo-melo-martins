@@ -10,9 +10,6 @@
 
 ### Olá 👋, meu nome é Ricardo Melo Martins.
 
-Tenho mais de 20 anos de experiência com diversas tecnologias
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ricardo-melo-martins" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   

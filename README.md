@@ -3,49 +3,54 @@
 
 ### ⚡ RMM ⚡
 
+<a href="https://www.linkedin.com/in/ricardo-melo-martins" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
 </div>
 
 > [!IMPORTANT]  
 > Estou disponível para novos desafios
 
-### Olá 👋, meu nome é Ricardo Melo Martins.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ricardo-melo-martins" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</p>
-
 
 ``` javascript
 
 const profile = {
-  tech: [backend, frontend, mobile]
+  name: 'Ricardo Melo Martins',
+  age: '47',
+  tech: [backend, frontend, mobile, devops],
 }
 
+// knowledge acquired in the private companies I worked for
 expand(profile.tech) => {
   'backend': {
-    PHP,
-    Node,
-    Python,
-    C#,
-    Java
+    PHP: ['Zend', 'Symfony', 'Cake', 'Laravel', 'Codeigniter'],
+    Node: ['Express', 'NestJs'],
+    Python: ['Flask'],
+    Java: ['JSF','Struts','RestEasy'],
+    C#: ['Mvc Razor'],
+    VB: ['6', 'Vb.net', 'Asp Classic']
   },
   'frontend': {
-    Javascript,
-    Vue,
-    React,
-    Angular,
-    Jquery
+    Html: ['Tailwind Css', 'Bootstrap', 'OnsenUI', 'Dojo']
+    Javascript: ['vanilla', 'typescript', 'babel'],
+    Vue: ['2', '3', 'Composition Api', 'typescript'],
+    React: ['Mui'],
+    Angular: ['2+', 'Angularjs'],
+    extras: ['Jquery','Gulp']
   },
   'mobile': {
     Java,
     React Native,
     hybrid : {
-      ionic,
-      monaca,
-      framework7
+      Ionic,
+      Monaca,
+      Framework7
     },
-  }  
+  },
+  'devops': {
+    Network,
+    Docker,
+    Shell
+  }
 }
 
 ```

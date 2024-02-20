@@ -17,9 +17,37 @@
 
 
 ``` javascript
+
 const profile = {
   tech: [backend, frontend, mobile]
 }
+
+expand(profile.tech) => {
+  'backend': {
+    PHP,
+    Node,
+    Python,
+    C#,
+    Java
+  },
+  'frontend': {
+    Javascript,
+    Vue,
+    React,
+    Angular,
+    Jquery
+  },
+  'mobile': {
+    Java,
+    React Native,
+    hybrid : {
+      ionic,
+      monaca,
+      framework7
+    },
+  }  
+}
+
 ```
 
 ### 📊 GitHub Stats:

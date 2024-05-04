@@ -7,10 +7,6 @@
 
 </div>
 
-> [!IMPORTANT]  
-> Estou disponível para novos desafios
-
-
 ``` javascript
 
 const profile = {

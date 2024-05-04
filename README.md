@@ -21,7 +21,7 @@ expand(profile.tech) => {
     PHP: ['Zend', 'Symfony', 'Cake', 'Laravel', 'Codeigniter'],
     Node: ['Express', 'NestJs'],
     Python: ['Flask'],
-    Java: ['JSF','Struts','RestEasy'],
+    Java: ['Springboot', 'JSF','Struts','RestEasy'],
     C#: ['Mvc Razor'],
     VB: ['6', 'Vb.net', 'Asp Classic']
   },
@@ -45,7 +45,11 @@ expand(profile.tech) => {
   'devops': {
     Network,
     Docker,
-    Shell
+    Shell,
+    'cloud': {
+      'Azure',
+      'AWS Amazon'
+      'GC Google' 
   }
 }
 

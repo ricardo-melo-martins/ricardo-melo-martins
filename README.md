@@ -15,7 +15,7 @@
 
 const profile = {
   name: 'Ricardo Melo Martins',
-  age: '47',
+  age: '48',
   tech: [backend, frontend, mobile, devops],
 }
 

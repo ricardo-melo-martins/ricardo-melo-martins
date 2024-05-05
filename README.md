@@ -12,7 +12,9 @@
 const profile = {
   name: 'Ricardo Melo Martins',
   age: '48',
-  tech: [backend, frontend, mobile, devops],
+  occupation: Fullstack Developer,
+  proficiency: [backend, frontend], 
+  experiences: [mobile, devops],
 }
 
 // knowledge acquired in the private companies I worked for

@@ -17,7 +17,7 @@ const profile = {
   experiences: [mobile, devops],
 }
 
-// knowledge acquired in the private companies I worked for
+# knowledge acquired in the private companies I worked for
 expand(profile.proficiency) => {
   'backend': {
     PHP: ['Zend', 'Symfony', 'Cake', 'Laravel', 'Codeigniter'],

@@ -7,7 +7,7 @@
 
 </div>
 
-``` javascript
+``` powershell
 
 const profile = {
   name: 'Ricardo Melo Martins',
@@ -18,7 +18,7 @@ const profile = {
 }
 
 // knowledge acquired in the private companies I worked for
-expand(profile.tech) => {
+expand(profile.proficiency) => {
   'backend': {
     PHP: ['Zend', 'Symfony', 'Cake', 'Laravel', 'Codeigniter'],
     Node: ['Express', 'NestJs'],
@@ -35,6 +35,9 @@ expand(profile.tech) => {
     Angular: ['2+', 'Angularjs'],
     extras: ['Jquery','Gulp']
   },
+};
+
+expand(profile.experiences) => {
   'mobile': {
     Java,
     React Native,
@@ -53,7 +56,7 @@ expand(profile.tech) => {
       'AWS Amazon'
       'GC Google' 
   }
-}
+};
 
 ```
 

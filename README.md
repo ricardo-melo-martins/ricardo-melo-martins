@@ -24,7 +24,7 @@ expand(profile.proficiency) => {
     Node: ['Express', 'NestJs'],
     Python: ['Flask'],
     Java: ['Springboot', 'JSF','Struts','RestEasy'],
-    C#: ['Mvc Razor'],
+    Csharp: ['Mvc Razor'],
     VB: ['6', 'Vb.net', 'Asp Classic']
   },
   'frontend': {

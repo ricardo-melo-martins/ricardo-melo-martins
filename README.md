@@ -51,7 +51,7 @@ expand(profile.experiences) => {
     Network,
     Docker,
     Shell,
-    'cloud': {
+    Cloud: {
       'Azure',
       'AWS Amazon'
       'GC Google' 
